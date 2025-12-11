@@ -38,7 +38,7 @@
             <div class="swiper showcase-slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <video src="assets/video/Canto VIII.mp4" loop muted playsinline></video>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/AdgjMfKoECg?si=uJDWZMDE8GuNT7-H&autoplay=1&mute=1&loop=1&playlist=AdgjMfKoECg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <div class="slide-caption">Season 6 Update</div>
                     </div>
 
@@ -48,7 +48,7 @@
                     </div>
                 
                     <div class="swiper-slide">
-                        <video src="assets/video/Battle.mp4" loop muted playsinline></video>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/yM0ioe6zI4s?si=Kbtj7PkC6pQ0oLi2&autoplay=1&mute=1&loop=1&playlist=yM0ioe6zI4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <div class="slide-caption">Normal Encounter</div>
                     </div>
 
@@ -58,7 +58,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <video src="assets/video/Focused_Encounter.mp4" loop muted playsinline></video>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/JN_6Iyd3MA4?si=eFWetwEBSaVCzu2i&autoplay=1&mute=1&loop=1&playlist=JN_6Iyd3MA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <div class="slide-caption">Focused Encounter</div>
                     </div>
                 </div>
