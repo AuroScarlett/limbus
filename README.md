@@ -22,7 +22,6 @@ This project is a lightweight, web-based introductory guide designed to help new
 
 * `assets/` - Contains all images, icons, and visual media used across the website.
 * `index.php` - The main entry point of the application.
-* *(Tambahin file/folder utama lain di sini kalau ada, misalnya `style.css` atau folder `includes/`)*
 
 ## 🚀 Getting Started
 
