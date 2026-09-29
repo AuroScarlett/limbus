@@ -38,7 +38,7 @@ You will need a local web server environment installed on your machine, such as:
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/](https://github.com/)[username-github-lu]/[nama-repo-lu].git
+   git clone https://github.com/AuroScarlett/limbus.git
    ```
 2. Move the project folder to your local server's root directory:
    * For XAMPP: C:/xampp/htdocs/
